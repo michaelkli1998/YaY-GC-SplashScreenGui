@@ -1,0 +1,53 @@
+26
+chicken pot pie
+599
+turkey
+7053
+big_mac
+563
+steak
+659
+bagel
+245
+waffle
+218
+mango
+201
+celery
+6
+apple
+95
+bacon
+43
+banana
+105
+chicken
+1000
+pancake
+86
+avocado
+322
+kimchi jjigae
+458
+chip
+12
+bibimbap
+500
+blueberry
+0.8
+shin ramyun
+519
+peanut
+6
+pea
+0.5
+strawberry
+4
+egg
+80
+cheese
+2000
+french fry
+9
+sushi
+110
